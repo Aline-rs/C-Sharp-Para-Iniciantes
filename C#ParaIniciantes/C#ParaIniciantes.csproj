@@ -46,6 +46,9 @@
     <Compile Include="Exercícios\Condicionais\Ex01.cs" />
     <Compile Include="Exercícios\Condicionais\Ex02.cs" />
     <Compile Include="Exercícios\Condicionais\Ex03.cs" />
+    <Compile Include="Exercícios\Funções\funcao-Ex01.cs" />
+    <Compile Include="Exercícios\Funções\funcao-Ex02.cs" />
+    <Compile Include="Exercícios\Funções\funcao-Ex03.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

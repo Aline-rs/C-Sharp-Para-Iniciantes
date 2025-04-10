@@ -1,5 +1,6 @@
 ﻿using System;
 using C_ParaIniciantes.Exercícios.Condicionais;
+using C_ParaIniciantes.Exercícios.Funções;
 
 
 namespace C_ParaIniciantes
@@ -92,10 +93,26 @@ namespace C_ParaIniciantes
             {
                 Console.WriteLine("Procure ajuda!");
             }
-            */
-            //Ex01.exercicio01();
-            //Ex02.exercicio02();
+            
+            // ====== EXERCICIOS CONDICIONAIS ======
+            Ex01.exercicio01();
+            Ex02.exercicio02();
             Ex03.exercicio03();
+            
+
+            // ====== EXERCICIOS FUNÇÕES ======
+
+            Ex01Funcao.PrecoFinal(30, "Chocolate");
+            Ex01Funcao.PrecoFinal(50, "Refrigente");
+            Ex01Funcao.PrecoFinal(20, "Bolo");
+            Ex01Funcao.PrecoFinal(60, "Sorvete");
+            Ex01Funcao.PrecoFinal(10, "Pão");
+            
+
+            Ex02Funcao.Pizza(30);
+            */
+
+            Ex03Funcao.Triangulo(250, 350);
 
             Console.ReadLine();
 
